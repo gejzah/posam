@@ -1,0 +1,10 @@
+compute\Application.class
+solutions\FillRoom.class
+compute\FileIO.class
+solutions\LocationFurniture.class
+interier\Furniture.class
+interier\Room.class
+configs\IOProperties.class
+objects\FillSpace.class
+objects\Deployment.class
+solutions\LocationFurniture$1.class
